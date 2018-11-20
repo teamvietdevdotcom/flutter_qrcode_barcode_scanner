@@ -1,14 +1,3 @@
-# Flutter QR Code & Barcode Scanner
-
-Hướng dẫn xây dựng ứng dụng Flutter với các tính năng quét mã QR Code và Barcode (QR Code & Barcode Scanner).
-
-Sau đây là giao diện mẫu quét mã QR Code và Barcode (QR Code & Barcode Scanner) bằng Flutter bạn có thể tham khảo:
-
-<img src="https://teamvietdev.com/wp-content/uploads/2018/11/teamvietdev-quet-ma-qr-code-va-barcode-trong-flutter-vi-du-768x444.jpg" alt="QR Code & Barcode Scanner bằng Flutter">
-
-Mã nguồn <a href="https://teamvietdev.com/quet-ma-qr-code-va-barcode-trong-flutter/">QR Code & Barcode Scanner trong Flutter</a>:
-
-```
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:barcode_scan/barcode_scan.dart';
@@ -89,7 +78,3 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
-```
-
-Tìm hiểu thêm về <a href="https://teamvietdev.com/chuyen-muc/flutter/">Flutter</a> tại 
-<a href="https://teamvietdev.com/">Team Việt Dev</a>.
